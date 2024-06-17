@@ -1,5 +1,5 @@
 # gapfiller
-Docker for gapfiller
+Docker for gapfiller version 1.1.1 (installed in a debian:squeeze version, 2011)
 
 # building an image
 docker build -t gapfiller:1.1.1 .
